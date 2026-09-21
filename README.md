@@ -1,16 +1,15 @@
-# Hi there 
+# Hi, I'm Daaito
 
-<!--
-**Daaito/Daaito** is a  _special_  repository because its `README.md` (this file) appears on your GitHub profile.
-No emojis in my Readme :<
-Here are some ideas to get you started:
+Software development apprentice from Germany.
 
--  I’m currently working on ...
--  I’m currently learning ...
--  I’m looking to collaborate on ...
--  I’m looking for help with ...
--  Ask me about ...
--  How to reach me: ...
--  Pronouns: ...
--  Fun fact: ...
--->
+## What I'm working on
+- Discord Bot: "The World Machine" its a small bot that helps me manage my discord Server!
+- My website: [daai.to](https://daai.to) <- as you may see i don't rally know how to design stuff :<
+
+## Tech I use
+![C#](https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=white)
+![C++](https://img.shields.io/badge/-C%2B%2B-00599C?logo=cplusplus&logoColor=white)
+
+## Find me
+- Website: [daai.to](https://daai.to)
+- Discord: Daaito
