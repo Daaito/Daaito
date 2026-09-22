@@ -14,9 +14,6 @@ Software development apprentice from Germany.
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
 
-## My most used languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daaito&layout=compact&theme=default&hide_border=true)
-
 ## Find me
 - Website: [daai.to](https://daai.to)
 - Discord: Daaito
