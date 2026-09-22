@@ -3,7 +3,7 @@
 Software development apprentice from Germany.
 
 ## What I'm working on
-- **Discord Bot: "Discord World Machine"** — a small bot that helps me manage my Discord server!
+- **Discord World Machine**: a small bot that helps me manage my Discord server!
 - **My website:** [daai.to](https://daai.to) <- as you may see i don't really know how to design stuff :<
 - **The World Machine**: A small passion Project i have had for a while, a 2D C++ Game engine. 
 
